@@ -38,7 +38,7 @@ pip install paramiko gdown customtkinter pillow
 ## ▶️ Como Executar
 
 ```bash
-python installer.py
+python main.py
 ```
 
 ---
